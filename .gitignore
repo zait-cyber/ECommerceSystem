@@ -1,0 +1,12 @@
+# Compiled files
+out/
+*.class
+
+# IntelliJ personal settings
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+
+# OS files
+.DS_Store
+Thumbs.db
